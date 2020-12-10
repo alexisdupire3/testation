@@ -1,0 +1,8 @@
+1. le stash permet d'annuler les changement effectuer en local
+
+2. On utilise le revert avec le code du commit au quel on souihaite revenir ou preciser le nombre de retour en arriere que l'on souhaite effectuer
+
+3. Git permet de conserver un historique des modificatio net de pouboir revenir a un stade anterieur en cas de bsoin, Il permet egalemetn le partage et facilite le travail d'équipe.
+
+4. Git push --force vas imposer le push et supprimer les changemement apporter sur ces fichier precedement sans merge creant ainsi des modificatio ndans le branche d'origin pouvant 
+entrainer des conflicts dans les autres branches. On peut utiliser le git push --force-with-lease qui verifie l'existence d'une correlation entre branche lcoal et distante.

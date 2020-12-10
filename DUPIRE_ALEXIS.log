@@ -1,0 +1,49 @@
+c34515d HEAD@{0}: commit: Seulement la premiere sans pouvoir split git add Premier_fichier.txt -p
+71fc5db HEAD@{1}: reset: moving to HEAD
+71fc5db HEAD@{2}: pull: Fast-forward
+713a165 HEAD@{3}: reset: moving to HEAD
+713a165 HEAD@{4}: rebase (continue) (finish): returning to refs/heads/main
+713a165 HEAD@{5}: rebase (start): checkout 713a1658b54e1e7e20a0855fb07d2691bbe83d5e
+7d59c4b HEAD@{6}: rebase (abort): updating HEAD
+7d59c4b HEAD@{7}: rebase (start): checkout 7d59c4b163c74d9c83dca2c501de5346f6742e57
+7d59c4b HEAD@{8}: rebase (abort): updating HEAD
+7d59c4b HEAD@{9}: rebase (start): checkout 7d59c4b163c74d9c83dca2c501de5346f6742e57
+7d59c4b HEAD@{10}: rebase (abort): updating HEAD
+713a165 HEAD@{11}: rebase (start): checkout 713a1658b54e1e7e20a0855fb07d2691bbe83d5e
+7d59c4b HEAD@{12}: rebase (finish): returning to refs/heads/main
+7d59c4b HEAD@{13}: rebase (start): checkout 7d59c4b163c74d9c83dca2c501de5346f6742e57
+7d59c4b HEAD@{14}: commit (amend): Merge branch 'main' of github.com:alexisdupire3/testation into main
+329fcec HEAD@{15}: commit (amend): Merge branch 'main' of github.com:alexisdupire3/testation into main
+71fc5db HEAD@{16}: pull: Merge made by the 'recursive' strategy.
+713a165 HEAD@{17}: rebase (continue) (finish): returning to refs/heads/main
+713a165 HEAD@{18}: rebase (continue) (squash): second one
+fcad978 HEAD@{19}: rebase (continue) (squash): # This is a combination of 2 commits.
+40e8bab HEAD@{20}: rebase (continue) (pick): second one
+d0d1e6c HEAD@{21}: rebase (start): checkout d0d1e6c8b17e7eff94c19b7abf8cea91ff314d57
+9aa1d43 HEAD@{22}: commit: last one
+4b68542 HEAD@{23}: commit: third one
+f592a9e HEAD@{24}: commit: second one
+736653c HEAD@{25}: pull: Merge made by the 'recursive' strategy.
+d0d1e6c HEAD@{26}: commit: first one
+abf4d8b HEAD@{27}: rebase (continue) (finish): returning to refs/heads/main
+abf4d8b HEAD@{28}: commit (amend): Create LISEZ_MOI.md
+8f8df0b HEAD@{29}: rebase: fast-forward
+83c6586 HEAD@{30}: rebase (start): checkout 8161bfc92f72c2da5c0a829059d813bc677e1178
+8f8df0b HEAD@{31}: reset: moving to HEAD
+8f8df0b HEAD@{32}: rebase (finish): returning to refs/heads/main
+8f8df0b HEAD@{33}: rebase (start): checkout 8161bfc92f72c2da5c0a829059d813bc677e1178
+8f8df0b HEAD@{34}: reset: moving to HEAD
+8f8df0b HEAD@{35}: checkout: moving from feat/git_is_awesome to main
+6b97b4f HEAD@{36}: checkout: moving from main to feat/git_is_awesome
+8f8df0b HEAD@{37}: reset: moving to HEAD
+8f8df0b HEAD@{38}: pull: Fast-forward
+6b97b4f HEAD@{39}: checkout: moving from feat/git_is_awesome to main
+6b97b4f HEAD@{40}: rebase (finish): returning to refs/heads/feat/git_is_awesome
+6b97b4f HEAD@{41}: rebase (start): checkout main
+f537ad1 HEAD@{42}: checkout: moving from main to feat/git_is_awesome
+6b97b4f HEAD@{43}: commit: le troisieme fichier
+f537ad1 HEAD@{44}: checkout: moving from feat/git_is_awesome to main
+f537ad1 HEAD@{45}: checkout: moving from main to feat/git_is_awesome
+f537ad1 HEAD@{46}: pull: Fast-forward
+8161bfc HEAD@{47}: commit: Commit initial
+826b1f9 HEAD@{48}: clone: from github.com:alexisdupire3/testation.git
